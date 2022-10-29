@@ -4,18 +4,31 @@ A small game where you shoot at birds written in Java, mainly to practice design
 Controls
 
 Forward: W
+
 Backward: S
+
 Left: A
+
 Right: D
+
 Shoot: SPACE
+
 Mode: M
+
 Undo: Z
+
 Aim up: Shift
+
 Aim down: Ctrl
+
 Power up: UP
+
 Power down: DOWN
+
 Gravity up: +
+
 Gravity down: -
+
 
 There are lots of extra configs in the MvcGameConfig.java file.
 
